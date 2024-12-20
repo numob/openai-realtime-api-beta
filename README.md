@@ -1,3 +1,14 @@
+
+# Numob
+
+在 package.json 添加 
+```
+  "dependencies": {
+    "@numob/openai-realtime-api-beta": "github:numob/openai-realtime-api-beta"
+  }
+```
+
+
 # Reference Client: Realtime API (beta)
 
 This repository contains a reference client aka sample library for connecting
@@ -391,6 +402,4 @@ Special thanks to the Realtime API team for making this all possible.
 - Jason Clark / API / [@onebitToo](https://x.com/onebitToo)
 - Keith Horwood / API + DX / [@keithwhor](https://x.com/keithwhor)
 
-
-# Numob
 
